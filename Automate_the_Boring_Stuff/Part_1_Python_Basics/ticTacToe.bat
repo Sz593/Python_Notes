@@ -1,0 +1,1 @@
+@py.exe C:\PythonScripts\Automate_the_Boring_Stuff\Part_1_Python_Basics\ticTacToe.py %*
