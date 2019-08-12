@@ -1,0 +1,16 @@
+File Name
+aapl.csv				Apple's daily stock price from 2000 to 2013
+auto-mpg.csv				Automobile dataset
+diabetes.csv				PIMA Indians dataset obtained from the UCI Machine Learning Repository, has features such as BMI, age, #of pregnancies
+finch_beaks_1975.csv			TBD
+finch_beaks_2012.csv			TBD
+fortis_beak_depth_heredity.csv		TBD
+gapminder_tidy.csv			Gapminder: somewhat cleaned version of gapminder data
+gm_2008_region.csv			Gapminder: 2008 pre-processed data for ML regression
+glucose.csv				Blood glucose levels for an unknown patient, recorded every 5 minutes on October 7th starting at 3 minutes past midnight
+house-votes-84.csv			US House of Representatives congressional voting records (1984), obtained from the UCI Machine Learning Repository
+literacy_birth_rate.csv			Dataset from European Environmental Agency highlighting literacy, female birth rate, etc.
+police.csv				Traffic stops in Rhode Island collected by the Stanford Open Policing Project
+scandens_beak_depth_heredity.csv	TBD
+weather.csv				Weather in Providence, RI
+winequality-red.csv			TBD
